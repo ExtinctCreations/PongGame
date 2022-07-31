@@ -1,2 +1,1 @@
-# PongGame-ComingSoon-
-Pong Game is a light weight pong game made by Extinct Creations
+Pong game is a light weight game made by Extinct Creations but it is still in development
